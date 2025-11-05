@@ -90,14 +90,16 @@ Toda contribuição é bem-vinda, desde que **respeite o propósito educacional 
 
 ## 🧾 Licença
 
-Este projeto e seus derivados são disponibilizados sob a licença **MIT**, respeitando o caráter **educacional e não comercial** do DevBoxLab.  
+Este projeto e seus derivados são disponibilizados sob a licença **MIT**, respeitando o caráter **educacional e não comercial** do DevBoxLab.
+
 Nenhum material, código ou recurso desenvolvido neste ambiente deve ser utilizado com **fins lucrativos** ou **proprietários**, salvo autorização expressa dos *owners*.
 
 ---
 
 ## 🧑‍💼 Governança
 
-O DevBoxLab é administrado por seus **owners**, que são responsáveis pela gestão técnica, pedagógica e ética do ambiente.  
+O DevBoxLab é administrado por seus **owners**, que são responsáveis pela gestão técnica, pedagógica e ética do ambiente.
+
 Cabe aos owners definir políticas de acesso, papéis, responsabilidades e aprovação de novos participantes.
 
 ---
