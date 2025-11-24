@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre o projeto
+## Sobre o projeto
 
 O **DevBoxLab** é um **laboratório educacional independente**, voltado à **formação prática de desenvolvedores de software** por meio de experiências reais, colaborativas e alinhadas a boas práticas de mercado.
 
@@ -12,13 +12,13 @@ O **DevBoxLab** é um **laboratório educacional independente**, voltado à **fo
 
 ---
 
-## 🎯 Propósito
+## Propósito
 
 O **DevBoxLab** existe para **aproximar pessoas da experiência prática**, acelerando a aprendizagem técnica e comportamental através de projetos reais, simulação de times e participação em entregas que impactam positivamente a comunidade.
 
 ---
 
-## 💡 Princípios Fundamentais
+## Princípios Fundamentais
 
 1. **Aprendizado Prático**  
    O conhecimento é construído desenvolvendo soluções reais, utilizando padrões, metodologias e ferramentas profissionais.
@@ -37,7 +37,7 @@ O **DevBoxLab** existe para **aproximar pessoas da experiência prática**, acel
 
 ---
 
-## 🧩 Participação
+## Participação
 
 A participação é **limitada** e depende de **autorização prévia** dos *owners*.
 
@@ -48,7 +48,7 @@ Antes de ingressar, é realizada uma **avaliação curricular e comportamental**
 
 ---
 
-## 📦 Projetos e Produção
+## Projetos e Produção
 
 Os projetos são **reais**, implantados em **ambientes públicos de produção**, e seguem padrões técnicos equivalentes a ambientes corporativos profissionais.
 
@@ -62,11 +62,11 @@ Isso reforça responsabilidade, aprendizado aplicado e vivência prática.
 
 ---
 
-## 🛠️ Tecnologias e Metodologias
+## Tecnologias e Metodologias
 
 O DevBoxLab utiliza stack e práticas amplamente adotadas no mercado:
 
-- **Linguagem principal:** 🐍 **Python**  
+- **Linguagem principal:** **Python**  
 - **Versionamento:** Git / GitHub  
 - **Metodologias Ágeis:** Scrum / Kanban  
 - **Integração Contínua (CI/CD)**  
@@ -77,7 +77,7 @@ Python é o centro tecnológico da iniciativa, utilizada para construir aplicaç
 
 ---
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 Mesmo não sendo participante ativo, você pode contribuir com:
 
@@ -90,7 +90,7 @@ Contribuições externas são sempre bem-vindas, desde que respeitem o caráter 
 
 ---
 
-## 🧾 Licença
+## Licença
 
 Este repositório está sob licença **MIT**.
 
@@ -99,7 +99,7 @@ Qualquer uso lucrativo, corporativo ou proprietário requer autorização expres
 
 ---
 
-## 🧑‍💼 Governança
+## Governança
 
 O DevBoxLab é gerido por seus **owners**, responsáveis por:
 
@@ -111,13 +111,13 @@ O DevBoxLab é gerido por seus **owners**, responsáveis por:
 
 ---
 
-## 🌍 Visão de Futuro
+## Visão de Futuro
 
 Construir o **principal ecossistema educacional baseado em prática real**, onde desenvolvedores crescem por meio da colaboração, da responsabilidade técnica e do impacto social através da tecnologia.
 
 ---
 
-### 💬 Contato
+### Contato
 
 Para informações, parcerias ou interesse em participar, consulte os **canais oficiais** listados neste repositório.
 
