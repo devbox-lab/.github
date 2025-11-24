@@ -1,4 +1,4 @@
-# 🧠 DevBoxLab
+# DevBoxLab
 
 > **Laboratório educacional para desenvolvedores aprenderem na prática, por meio de projetos reais, públicos e com propósito social.**
 
