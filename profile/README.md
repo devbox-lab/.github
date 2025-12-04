@@ -37,17 +37,6 @@ O **DevBoxLab** existe para **aproximar pessoas da experiência prática**, acel
 
 ---
 
-## Participação
-
-A participação é **limitada** e depende de **autorização prévia** dos *owners*.
-
-Antes de ingressar, é realizada uma **avaliação curricular e comportamental**, garantindo que o participante esteja alinhado ao propósito e preparado para atuar no ambiente.
-
-> ⚠️ **Nem todos podem participar.**  
-> O ingresso é realizado mediante convite ou aprovação após análise.
-
----
-
 ## Projetos e Produção
 
 Os projetos são **reais**, implantados em **ambientes públicos de produção**, e seguem padrões técnicos equivalentes a ambientes corporativos profissionais.
