@@ -37,20 +37,6 @@ O **DevBoxLab** existe para **aproximar pessoas da experiência prática**, acel
 
 ---
 
-## Projetos e Produção
-
-Os projetos são **reais**, implantados em **ambientes públicos de produção**, e seguem padrões técnicos equivalentes a ambientes corporativos profissionais.
-
-Cada feature, melhoria ou correção passa por:
-- revisão técnica;  
-- validação colaborativa;  
-- publicação organizada;  
-- documentação e versionamento.
-
-Isso reforça responsabilidade, aprendizado aplicado e vivência prática.
-
----
-
 ## Visão de Futuro
 
 Construir o **principal ecossistema educacional baseado em prática real**, onde desenvolvedores crescem por meio da colaboração, da responsabilidade técnica e do impacto social através da tecnologia.
