@@ -51,27 +51,6 @@ Isso reforça responsabilidade, aprendizado aplicado e vivência prática.
 
 ---
 
-## Licença
-
-Este repositório está sob licença **MIT**.
-
-As atividades do DevBoxLab são de natureza educacional e não comercial.  
-Qualquer uso lucrativo, corporativo ou proprietário requer autorização expressa dos *owners*.
-
----
-
-## Governança
-
-O DevBoxLab é gerido por seus **owners**, responsáveis por:
-
-- decisões técnicas e pedagógicas;  
-- políticas de acesso;  
-- aprovação de participantes;  
-- definição de responsabilidades e papéis;  
-- manutenção da integridade ética do ambiente.
-
----
-
 ## Visão de Futuro
 
 Construir o **principal ecossistema educacional baseado em prática real**, onde desenvolvedores crescem por meio da colaboração, da responsabilidade técnica e do impacto social através da tecnologia.
