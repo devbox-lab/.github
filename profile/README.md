@@ -51,34 +51,6 @@ Isso reforça responsabilidade, aprendizado aplicado e vivência prática.
 
 ---
 
-## Tecnologias e Metodologias
-
-O DevBoxLab utiliza stack e práticas amplamente adotadas no mercado:
-
-- **Linguagem principal:** **Python**  
-- **Versionamento:** Git / GitHub  
-- **Metodologias Ágeis:** Scrum / Kanban  
-- **Integração Contínua (CI/CD)**  
-- **Cloud & Containers**  
-- **Revisões de Código e Mentorias Técnicas**
-
-Python é o centro tecnológico da iniciativa, utilizada para construir aplicações, automações e ferramentas educacionais.
-
----
-
-## Como Contribuir
-
-Mesmo não sendo participante ativo, você pode contribuir com:
-
-- Abertura de *Issues* com sugestões;  
-- Correções e melhorias de documentação;  
-- Discussões técnicas abertas;  
-- Divulgação dos projetos e iniciativas.
-
-Contribuições externas são sempre bem-vindas, desde que respeitem o caráter **educacional**, **aberto** e **não comercial** do laboratório.
-
----
-
 ## Licença
 
 Este repositório está sob licença **MIT**.
